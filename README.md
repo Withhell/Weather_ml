@@ -2,7 +2,7 @@ This project was created as a final project for Machine Learning course in KNEU.
 
 It uses historical weather data from [Open-Meteo](https://open-meteo.com/) that was parsed using Open-Meteo Historical Weather API and Forecast API.
 
-In this project uses Logistic Regression, Decision Tree Classifier, Random Forest and KNN for classification of percipitation probability.
+This project uses Logistic Regression, Decision Tree Classifier, Random Forest and KNN for classification of percipitation probability.
 
 
 
