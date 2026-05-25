@@ -218,7 +218,7 @@ else:
             xlabel = 'Coefficient Value'
         else:
             importances = None
-            st.write(f"ℹ️ Model type {model_name} does not support standard importance plotting.")
+            st.write(f"Model type {model_name} does not support standard importance plotting.")
             
         if importances is not None:
             indices = np.argsort(np.abs(importances))
